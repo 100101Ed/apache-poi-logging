@@ -79,3 +79,11 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+
+# TestNg
+.classpath
+.project
+.settings/
+target
+test-output
+
