@@ -80,10 +80,7 @@ local.properties
 # Code Recommenders
 .recommenders/
 
-# TestNg
-.classpath
-.project
-.settings/
-target
-test-output
 
+# Out put file from IPO
+Output-File.xls
+test-output/
